@@ -8,7 +8,9 @@ import java.util.HashMap;
  */
 public class HashMapObject {
     public static void main(String[] args) {
-        HashMap<String, Integer> people = new HashMap<>();
+        HashMap<String, Integer> people = new HashMap<>();//create a hash map called people
+
+        //add key and value
         people.put("Kavan", 2);
         people.put("Sapna",4);
         people.put("Kiana",7);

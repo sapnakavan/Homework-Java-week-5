@@ -10,6 +10,7 @@ import java.util.Map;
 
 public class Array_Colour {
     public static void main(String[] args) {
+
         ArrayList<String> list =new ArrayList<>();
         list.add("Red");
         list.add("Blue");
